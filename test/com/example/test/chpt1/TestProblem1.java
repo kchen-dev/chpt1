@@ -1,4 +1,4 @@
-package chpt1;
+package com.example.test.chpt1;
 
 import static org.junit.Assert.*;
 
